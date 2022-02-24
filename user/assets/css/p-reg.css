@@ -1,0 +1,48 @@
+.container-1{
+    display: flex;
+    position: absolute;
+    left: 200px;
+    top: 40px;
+    background-color: rgb(67, 69, 73);
+    
+    border-radius: 25px;
+    
+}
+
+.reg
+{
+border: 3px solid rgb(67, 69, 73);;
+width: 800px;
+padding: 20px;
+background-color: rgb(255, 255, 255);
+border-radius: 25px;
+
+}
+.spw{
+    width: 150px;
+}
+.spw-radio
+{
+    height: 40px;
+    width: 450px;
+}
+.radiobtn{
+    display: flex;
+   
+}
+
+.log{
+    
+    position: relative;
+    top:150px;
+    
+}
+.log-container
+{
+    padding: 100px;
+    
+}
+.first-frm
+{
+    display: flex;
+}
